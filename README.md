@@ -36,6 +36,6 @@ welcome to Sina GitHub,<br>👋 I'm a self-taught Flutter developer and a full-s
 <!-- BLOG-POST-LIST:END -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahdiyarz&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sinazrp&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
