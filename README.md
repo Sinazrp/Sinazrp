@@ -32,6 +32,8 @@ welcome to Sina GitHub,<br>👋 I'm a self-taught Flutter developer and a full-s
 
 ### ✍️ Blog Posts : 
 - [Using Isar Database with GetX State Management in Flutter](https://medium.com/@sina.zrp/using-the-isar-database-with-getx-state-management-in-flutter-cba187cee97e)
+- [Exploring the AnimatedContainer Widget in Flutter: A Comprehensive Guide](https://medium.com/@sina.zrp/exploring-the-animatedcontainer-widget-in-flutter-a-comprehensive-guide-9ee7ecba93aa)
+- [Exploring GetX and BLoC: A Thorough Analysis and Comparison of State Management in Flutter](https://medium.com/@sina.zrp/exploring-getx-and-bloc-a-thorough-analysis-and-comparison-of-state-management-in-flutter-d03ef52a6c6b)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
