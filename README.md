@@ -20,7 +20,9 @@ welcome to Sina GitHub,<br>👋 I'm a self-taught Flutter developer and a full-s
 <img src="https://isar.dev/isar.svg" title="isar" **alt="isar" width="40" height="40"/>&nbsp;  
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" title="AdobeXd" **alt="AdobeXd" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968701.png" title="figma" **alt="figma" width="40" height="40"/>&nbsp;  
-<img src="https://plugins.jetbrains.com/files/12129/261752/icon/pluginIcon.svg" title="bloc" **alt="bloc" width="40" height="40"/>&nbsp;  
+<img src="https://plugins.jetbrains.com/files/12129/261752/icon/pluginIcon.svg" title="bloc" **alt="bloc" width="40" height="40"/>&nbsp;
+<img src="https://go.dev/images/go-logo-white.svg" title="golang" **alt="golang" width="40" height="40"/>&nbsp;  
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" title="postgres" **alt="bloc" width="40" height="40"/>&nbsp;  
 </p>
 
 
